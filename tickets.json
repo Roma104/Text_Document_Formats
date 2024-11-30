@@ -1,0 +1,8 @@
+{
+        "przewoźnik": "KMŁ",
+        "klasa": 2,
+        "data": "2024-11-04",
+        "numer biletu": 35800310586192,
+        "czyulgowy": true,
+        "stacje pośrednie": ["Krakó Główny","Krakó Bronowice", "Trzebinia","Gorzów Chrznowski", "Oświęcim"]
+        }

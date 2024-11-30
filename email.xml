@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<emailFormats>
+	<email>
+		<sender>
+			<senderName>Sunny</senderName>
+			<senderEmailAdress>Sunny123@email.com</senderEmailAdress>
+		</sender>
+		<recipient>
+			<recipientName>Mack</recipientName>
+			<recipientEmailAdress>Moon456@email.com</recipientEmailAdress>
+		</recipient>
+		<content>
+			<subject>Tea</subject>
+			<message>YOU WON'T BELIEVE WHAT HAPPEN WITH MK, WE GOTTA MEET FOR TEA ASAP!</message>
+		</content>	
+	</email>
+</emailFormats>

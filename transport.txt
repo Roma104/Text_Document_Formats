@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transport>
+    <car marka="fiat" model="punto">
+        <specs>
+            <localisation>Brzeszcze</localisation>
+            <color>black</color>
+            <owner>mój brat</owner>
+            <cenarynkowa waluta="pln">12000</cenarynkowa>
+        </specs>
+    </car>   
+    </mojenogi wyprodukowane="mama&tata" ilość="2">
+        <specs>
+            <długość unit="cm">100</długość>
+            <kolor>berzowy</kolor>
+            <owner>Roma</owner>
+            <innewłaściwości>kopanie</innewłaściwości>
+        </specs>
+    </mojenogi>
+    </autobus obszar="kraków" rodzaj="hybryda">
+        <specs>
+            <długość unit="m">12</długość>
+            <linia>182</linia>
+            <stacjapoczątkowa>Galeria Krakowska</stacjapoczątkowa>
+            <kosztbiletuulgowego waluta="pln">2</kosztbiletuulgowego>
+        </specs>
+    </autobus>
+</transport>
